@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://krishnakishore2110.github.io/houseplant-ecommerce",
+  "homepage": "https://github.com/Rahulrouthu/courseraproject",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
